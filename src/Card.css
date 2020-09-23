@@ -1,0 +1,29 @@
+.row{
+    display:flex;
+   
+}
+.row ul{
+    margin:0 auto;
+    padding:0;
+    line-height: 0;
+    text-align: justify;
+   
+}
+.row li {
+    width:auto;
+    /* display: inline-block; */
+    list-style: none;
+   
+    line-height:48px;
+    margin: 0;
+  padding:0;
+
+  text-align: center;
+    
+}
+.column{
+    flex:40%;
+    padding: 20px;
+    margin:0 40px;
+    
+}
